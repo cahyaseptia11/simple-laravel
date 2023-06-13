@@ -1,0 +1,24 @@
+body {
+    margin-top: 30px;
+    background-color: cornflowerblue;
+}
+
+.container {
+    box-shadow: 0 4px 8px 0 rgba(0, 11, 17, 0.815);
+    transition: 0.3s;
+    border-radius: 5px;
+    background-color: beige;
+    padding: 10px;
+}
+
+/* .container button {
+    margin-bottom: 10px;
+} */
+
+.container>table>tbody>tr>.but {
+    display: flex;
+}
+
+.page{
+    margin-top: 10mm;       
+}
